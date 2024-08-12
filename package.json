@@ -1,0 +1,19 @@
+{
+  "name": "mern-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "MERN Project"
+  },
+  "author": "Raees Rehan",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.3"
+  }
+}
